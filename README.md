@@ -193,3 +193,9 @@ A análise mostrou que os dois modelos conseguiram atingir desempenho superior a
 O KNN alcançou **87,18% de acurácia**, enquanto o Random Forest atingiu **94,87%**, apresentando também melhores valores de precisão, recall e F1-score.
 
 Com base nesses resultados, o **Random Forest foi selecionado como o melhor modelo** e salvo para utilização posterior.
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Carlos Vitor Taleires Rodrigues**
+
+Trabalho de Machine Learning desenvolvido para a disciplina de Programação Avançada, com foco na classificação de dados relacionados ao diabetes utilizando os algoritmos KNN e Random Forest.
